@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\database",
+    "\\database\\migrations",
+    "\\resources",
+    "\\resources\\views"
+  ],
+  "SelectedNode": "\\resources\\views\\iletisimuye.blade.php",
+  "PreviewInSolutionExplorer": false
+}
